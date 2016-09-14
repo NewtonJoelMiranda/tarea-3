@@ -1,0 +1,27 @@
+body{
+background: #0c4744;
+}
+
+#texto { 
+width: 700px; margin: 0 auto;
+}
+
+img{
+width: 200px;
+}
+
+#parrafo {
+color: red;
+}
+#parrafo1{
+	color: yellow;
+}
+#parrafo2{
+	color: green;
+}
+
+ol {
+font-family: arial;
+font-size: 22px;
+}
+
